@@ -1,0 +1,2 @@
+pycocotools_q
+pycocotools_q/poly_nms_gpu
